@@ -1,0 +1,6 @@
+bs4==0.0.1
+schedule==1.2.1
+mysql-connector-python==8.2.0
+customtkinter==5.2.1
+requests==2.31.0
+packaging==23.2
